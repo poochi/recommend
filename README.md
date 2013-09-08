@@ -1,4 +1,8 @@
-recommend
+Recommend
 =========
 
-Server side for recommendation engine 
+Author: Gowtham Rangarajan .R
+
+
+Server side implementation for recommendation engine. Doesnt involve computation .
+
